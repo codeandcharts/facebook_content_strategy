@@ -1,0 +1,429 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0101439830,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0100865137,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0110953554,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0122745825,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0144506080,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0166597058,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0195367668,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0215627446,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0242169854,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0280134847,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0531135729,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0635727702,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0816484205,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.1114265451,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.1912173130,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.2447928174,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.3404099364,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.4415325340,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,0.7238145143,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,1.4672043575,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,4.6338745378,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,6.2802444713,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,7.8503372659,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,12.1416053581,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,18.9184114690,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,24.8777105009,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,32.3242004227,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,43.1887218837,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,52.6710844189,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,60.2492348182,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,69.0515265125,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,74.7437108575,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,80.5142741725,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,85.5701465843,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,91.3851665361,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,106.0650988021,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,98.7807960099,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,102.2550847499,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,104.3614268982,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,106.8411918706,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,90.4443785327,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,87.8325275277,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,86.0266517496,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,92.1856067745,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,98.5192597353,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,99.0547980751,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,101.1508993540,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,103.6518789256,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,113.8191920402,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,114.1346974722,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,118.0988102622,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,122.0958530326,E
+SOM,2023-01-01,2023-12-31,201,'706,Somalia,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,127.2143602325,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,31.6045096451,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,31.4884988840,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,35.3745319426,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,43.4866594542,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,51.0861375422,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,58.8957935453,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,69.0668486495,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,30.9705284535,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,33.1489430139,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,35.8991639980,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,39.1419630878,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,42.8456323280,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,45.4927501033,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,47.2746043158,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,48.9801327691,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,50.5291026088,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,51.5467089592,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,52.8213611420,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,54.6845931674,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,56.8284196213,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,58.9556947543,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,36.7794843726,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,39.7052853894,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,67.8331750394,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,97.0549054873,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,96.7047044122,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,104.5187612780,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,126.3262206809,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,160.1741905407,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,153.4691946750,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,160.5483931811,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,98.9454763404,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,89.4758455960,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,107.5505053111,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,136.6172420096,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,154.7674916196,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,156.0002920491,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,157.9625680888,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,161.2164230519,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,75.3406694111,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,64.3681559260,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,65.2269663972,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,85.0265303734,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,106.3856825460,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,108.3722260770,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,95.5862214289,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,97.4559351200,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,94.9256519619,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,104.2370010288,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,104.5259447425,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,108.1563274711,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,111.8168678764,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0049279789,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0051372445,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0066668342,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0084382043,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0159966642,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0137145380,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0169465947,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0161892884,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0190783173,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0253187656,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0264152366,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0074792327,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0109104591,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.0948260513,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.0866230425,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.0914284233,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.2113634991,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.2673765051,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,0.6900836175,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,1.4543213441,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,4.8014330858,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,5.9421719557,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,7.4569632043,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,12.6710389338,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,19.6569131207,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,25.9155232842,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,34.8955288656,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,47.2909177646,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,55.4304995761,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,61.5712407267,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,74.3782447522,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,77.1102228920,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,89.2737748497,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,88.6704023279,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,96.7875811928,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,128.3420963570,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,115.4286341822,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,117.1374092899,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,122.5963752013,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,124.2252857781,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,104.9695571652,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,102.4846582728,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,100.0450024098,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,102.4579891745,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,103.5829935307,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,99.2657444258,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,103.8710850403,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,110.8253896934,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,109.0029962251,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,108.7211955277,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,127.2292132545,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,136.9585060328,E
+SOM,2023-01-01,2023-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,143.8198174136,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,15.3535703323,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,16.0376641092,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,21.2553928027,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,29.8950547711,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,56.5517929032,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,48.4839652139,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,59.9100097905,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,23.2526437701,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,26.1149784412,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,32.4458928019,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,19.4666666127,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,5.0407187433,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,6.0790739809,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,40.2315628552,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,22.1884099016,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,18.8722701577,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,32.0058012538,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,31.9867503468,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,52.1362049678,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,56.3294289503,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,61.0875027107,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,34.7996039937,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,37.7156855986,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,70.7910343465,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,100.8435538165,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,100.7388931065,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,112.8330292313,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,138.3250685172,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,168.5656465750,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,156.8366595523,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,172.9332903368,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,102.0782571166,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,99.2103148953,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,111.4471221234,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,144.6936401665,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,187.2735192510,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,182.2915118181,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,180.9526248593,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,189.3855773778,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,87.5993240475,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,74.7055475720,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,76.1080609832,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,98.8819076774,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,118.2404009911,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,113.9423867252,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,95.7897811250,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,100.0767545240,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,101.4952404108,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,99.8262702975,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,99.5681937899,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,116.5180616307,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,125.4282663436,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0081819296,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0079349127,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0100867167,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0115516808,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0136028104,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0154535346,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0183477149,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0202629401,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0225166037,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0258671033,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0588384333,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0635452773,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0827016461,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.1172664933,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.1947595056,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.2367860760,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.3223620429,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.4205730767,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,0.7266850413,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,1.5372571766,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,4.9295887646,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,6.7317414101,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,8.2910560784,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,12.8270634988,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,19.5203707153,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,25.9129655313,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,34.8179363915,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,47.2681278691,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,58.9024791073,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,62.8683590375,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,69.1888318302,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,70.3454819509,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,76.6897428246,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,83.5237992933,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,89.7665703114,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,104.0803715207,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,95.5838561717,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,99.9196958752,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,101.7570807385,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,103.9199311662,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,88.1804087643,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,85.5939508150,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,86.0266517496,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,92.1856067745,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,98.5192597353,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,99.0547980751,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,101.1508993540,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,103.6518789256,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,113.8191920402,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,114.1346974722,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,118.0988102622,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,122.0958530326,E
+SOM,2023-01-01,2023-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,128.0809487036,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,USD,25.4915523499,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,USD,24.7715412453,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,USD,32.1587608806,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,USD,40.9255476311,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,USD,48.0889830732,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,USD,54.6317078730,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,USD,64.8632838962,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,USD,29.1036218223,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,USD,30.8214090894,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,USD,33.1485852068,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,USD,43.3608898070,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,USD,42.8271031545,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,USD,46.0795848266,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,USD,49.7523015430,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,USD,49.8874620413,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,USD,48.8763847802,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,USD,48.8137995563,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,USD,50.3139421408,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,USD,54.9014630932,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,USD,59.5417369444,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,USD,62.7179972395,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,USD,39.4236210270,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,USD,41.9343445539,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,USD,71.6627182232,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,USD,100.1430663431,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,USD,100.7289506024,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,USD,112.5821376650,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,USD,138.2584084902,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,USD,179.1240301192,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,USD,160.1407297724,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,USD,160.8676351914,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,USD,93.1231155126,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,USD,85.2256281050,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,USD,104.9785138635,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,USD,134.1975040967,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,USD,151.8714281042,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,USD,150.9515015091,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,USD,154.3548841772,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,USD,157.1932567850,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,USD,73.2806985970,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,USD,62.7569163838,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,USD,63.5645348114,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,USD,85.0265303734,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,USD,106.3856825460,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,USD,108.3722260770,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,USD,95.5862214289,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,USD,97.4559351200,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,USD,94.9256519619,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,USD,104.2370010288,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,USD,104.5259447425,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2021,2021,USD,108.1563274711,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2022,2022,USD,111.8168678764,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0266853788,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0264118198,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0257114806,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0274467252,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0324128434,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0386814659,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0441654265,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0487797248,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0537827735,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0665313678,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.1056210848,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.1530730759,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.1876041849,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.2556057580,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.4921839141,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.6762272888,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.9195936038,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,1.1773780673,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,0.7902274377,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,2.0562983099,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,6.5670729585,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,8.9680088775,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,11.0436770422,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,16.7814411877,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,29.0939873779,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,38.6219233941,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,47.8192768511,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,57.2338595797,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,65.7392636400,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,71.3331019192,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,71.5368905438,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,87.7467707030,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,87.1919640236,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,86.2706637915,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,91.0496000958,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,101.3696646987,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,96.9847657196,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,99.8901380864,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,101.3212857454,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,104.3388528243,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,88.1451876072,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,85.5660003346,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,86.0266517496,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,92.1856067745,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,98.5192597352,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,99.0547980751,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,101.1508993540,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,103.6518789256,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,113.8191920402,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,114.1346974722,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,118.0988102622,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,122.0958530325,E
+SOM,1970-01-01,1970-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,USD,83.1407458366,E
+SOM,1971-01-01,1971-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,USD,82.4535196508,E
+SOM,1972-01-01,1972-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,USD,81.9740833002,E
+SOM,1973-01-01,1973-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,USD,97.2388588363,E
+SOM,1974-01-01,1974-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,USD,114.5866651433,E
+SOM,1975-01-01,1975-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,USD,136.7476504687,E
+SOM,1976-01-01,1976-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,USD,156.1346799086,E
+SOM,1977-01-01,1977-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,USD,70.0622247407,E
+SOM,1978-01-01,1978-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,USD,73.6194891494,E
+SOM,1979-01-01,1979-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,USD,85.2596709351,E
+SOM,1980-01-01,1980-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,USD,77.8372904639,E
+SOM,1981-01-01,1981-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,USD,103.1654386735,E
+SOM,1982-01-01,1982-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,USD,104.5290312596,E
+SOM,1983-01-01,1983-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,USD,108.4450842516,E
+SOM,1984-01-01,1984-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,USD,126.0724412589,E
+SOM,1985-01-01,1985-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,USD,139.5839895563,E
+SOM,1986-01-01,1986-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,USD,139.2498243538,E
+SOM,1987-01-01,1987-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,USD,140.8519356992,E
+SOM,1988-01-01,1988-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,USD,59.7021268436,E
+SOM,1989-01-01,1989-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,USD,79.6454717622,E
+SOM,1990-01-01,1990-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,USD,83.5513231118,E
+SOM,1991-01-01,1991-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,USD,52.5200482037,E
+SOM,1992-01-01,1992-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,USD,55.8564981165,E
+SOM,1993-01-01,1993-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,USD,93.7551834313,E
+SOM,1994-01-01,1994-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,USD,149.2574680405,E
+SOM,1995-01-01,1995-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,USD,150.1312464231,E
+SOM,1996-01-01,1996-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,USD,154.6213523095,E
+SOM,1997-01-01,1997-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,USD,167.4079912612,E
+SOM,1998-01-01,1998-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,USD,199.9148765677,E
+SOM,1999-01-01,1999-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,USD,181.7024521264,E
+SOM,2000-01-01,2000-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,USD,166.3269939138,E
+SOM,2001-01-01,2001-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,USD,116.1588838035,E
+SOM,2002-01-01,2002-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,USD,96.8967899216,E
+SOM,2003-01-01,2003-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,USD,108.4309640063,E
+SOM,2004-01-01,2004-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,USD,136.1155833343,E
+SOM,2005-01-01,2005-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,USD,147.9160337276,E
+SOM,2006-01-01,2006-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,USD,153.1638981230,E
+SOM,2007-01-01,2007-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,USD,154.3092236192,E
+SOM,2008-01-01,2008-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,USD,156.5200453117,E
+SOM,2009-01-01,2009-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,USD,73.5761074893,E
+SOM,2010-01-01,2010-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,USD,62.7318499178,E
+SOM,2011-01-01,2011-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,USD,63.5437779791,E
+SOM,2012-01-01,2012-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,USD,85.0265303733,E
+SOM,2013-01-01,2013-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,USD,106.3856825460,E
+SOM,2014-01-01,2014-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,USD,108.3722260770,E
+SOM,2015-01-01,2015-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,E
+SOM,2016-01-01,2016-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,USD,95.5862214289,E
+SOM,2017-01-01,2017-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,USD,97.4559351199,E
+SOM,2018-01-01,2018-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,USD,94.9256519619,E
+SOM,2019-01-01,2019-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,USD,104.2370010287,E
+SOM,2020-01-01,2020-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,USD,104.5259447424,E
+SOM,2021-01-01,2021-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2021,2021,USD,108.1563274710,E
+SOM,2022-01-01,2022-12-31,201,'706,Somalia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2022,2022,USD,111.8168678763,E
